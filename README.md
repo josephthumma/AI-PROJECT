@@ -1,4 +1,4 @@
-# Emojify-Create-your-own-emoji-with-Deep-Learning
+# Emojify-Create-your-own-emoji-with-Deep-Learning using CNN
 ## This Project are getting output on your Face Reaction and created Emoji on your Face Reaction for E.g. Happy - create emoji Happy , Sad - create emoji sad , like that ...
 
 # Dataset Used:
